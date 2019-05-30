@@ -7,4 +7,4 @@ Calculate the inspection progress of the building by checking the completed insp
 With the above features, building managers can have their own data collection and analysis systems.
 I hope this application can help you.
 
-#If you have any comments or suggestions, please contact: esxqli@163.com
+# If you have any comments or suggestions, please contact: esxqli@163.com
